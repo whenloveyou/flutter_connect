@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterflappyconnect (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutterflappyconnect (from `.symlinks/plugins/flutterflappyconnect/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutterflappyconnect:
+    :path: ".symlinks/plugins/flutterflappyconnect/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutterflappyconnect: 955d6fe3573ab5ee5cd3b24b96002c119c7600dc
+
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
+
+COCOAPODS: 1.9.1
